@@ -1,0 +1,16 @@
+{
+  "name": "simple-osc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-osc.js",
+  "type": "module",
+  "dependencies": {
+    "node-osc": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
