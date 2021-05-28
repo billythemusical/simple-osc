@@ -16,4 +16,4 @@ This repo is inspired by Gene Kogan's [p5js-osc](https://github.com/genekogan/p5
 
 OSC was originally developed at [CNMAT](https://www.cnmat.berkeley.edu/opensoundcontrol) by Adrian Freed, Matthew Wright, and others.  
 
-There are many other useful examples for Arduino/Teensy the [OSC repo](https://github.com/CNMAT/OSC).
+The Arduino examples were slightly modified from this Freed and Yotam Mann's [Arduino/Teensy OSC repo](https://github.com/CNMAT/OSC).
