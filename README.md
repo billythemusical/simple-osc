@@ -2,7 +2,11 @@
 
 ### Sending data over the network
 
-OSC stands for Open Sound Control, which speaks to its origins but is an acronym you can basically ignore. 
+So you wanna send data over the network???
+
+![tcp-vs-udp](images/tcp-vs-udp.png)
+
+OSC stands for Open Sound Control, which speaks to its origins but is an acronym you can basically ignore.
 
 OSC allows sending data over a network, often wirelessly via Wifi.  It uses the UDP protocol, which is generally careless about individual messages, but has the added benefit of speed.  As such, OSC is often used in performance.
 
