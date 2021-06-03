@@ -4,7 +4,7 @@
 
 So you wanna send data over the network???
 
-![tcp-vs-udp](images/tcp-vs-udp.png)
+![tcp-vs-udp](images/tcp-vs-udp.jpg)
 
 OSC stands for Open Sound Control, which speaks to its origins but is an acronym you can basically ignore.
 
