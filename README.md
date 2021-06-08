@@ -13,7 +13,7 @@
 
 ### So you wanna send data over the network??
 
-This repo is aimed specifically at folks who wanna send data wirelessly (and not use BLE).  FYI will require a wifi network.  Much of this is based on my work in interactive media while a student and research resident at NYU's ITP/IMA program.   
+This repo is aimed specifically at folks who wanna send data wirelessly (and not use BLE).  FYI this will require a wifi network/router.  Much of this is based on my work in interactive media while a student and research resident at NYU's ITP/IMA program.   
 
 Note: some of these examples can be used in wired situations, but they have not been tested.
 
